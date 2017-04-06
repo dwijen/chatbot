@@ -5,6 +5,9 @@ THis bot is very dump, so  be aware of stupidness.
 
 ## How to install
 1. git clone in a directory of your choice.
+```shell
+https://github.com/dwijen/chatbot.git
+```
 > It creates a chatbot directory
 2. cd chatbot
 3. virtualenv venv
