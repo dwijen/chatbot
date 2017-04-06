@@ -16,7 +16,7 @@ git clone https://github.com/dwijen/chatbot.git
 
 
 ## How to run
-Execute fro terminal **python first.py**
+Execute from terminal **python first.py**
 > It will take little time to start up and also may be little slow in response depending upon the system you are using
 
 
@@ -29,7 +29,17 @@ hello chatbot
  chatbot is going to give your reply
 
 Write You question and hit Enter.
- Qustion plz :
+  Qustion plz :
+ Good morning! How are you doing?
+ 
+ Dwijen : I am doing well, how about you?
+
+ Question:->
+I am good. Thank you
+
+Dwijen : That's good.
+
+ Qustion :
 What is the time now?
 
 Dwijen : trading shares.
