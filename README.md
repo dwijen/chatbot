@@ -12,7 +12,7 @@ git clone https://github.com/dwijen/chatbot.git
 2. cd chatbot
 3. virtualenv venv
 4. source venv/bin/activate
-5. pip install -r requirements.txt
+5. pip install -r requirement.txt
 
 
 ## How to run
